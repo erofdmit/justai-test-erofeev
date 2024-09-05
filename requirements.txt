@@ -1,0 +1,2 @@
+mlp-sdk @ git+https://github.com/just-ai/mlp-python-sdk.git@c5392dab17f6b246e655a806e25b8e1c9ac9a062
+requests==2.25.1
